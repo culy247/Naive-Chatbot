@@ -1,0 +1,1 @@
+./fasttext print-sentence-vectors wiki-pretrain/wiki.vi.bin < data/message.txt > data/message_vector.txt

@@ -1,0 +1,1 @@
+./fasttext print-sentence-vectors wiki-pretrain/wiki.vi.bin < data/prep_question.txt > data/question_vector.txt
